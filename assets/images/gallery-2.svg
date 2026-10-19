@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t"><title id="t">Рульове керування та підвіска — ілюстрація-заглушка</title>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#d6dbe2"/></pattern></defs>
+<rect width="800" height="600" fill="#e9ecf0"/><rect width="800" height="600" fill="url(#g)"/>
+<rect x="213" y="110" width="14" height="330" fill="#2a3140"/><rect x="195" y="430" width="50" height="60" rx="8" fill="#fff" stroke="#2a3140" stroke-width="4"/>
+<g fill="none" stroke="#d92d2d" stroke-width="8" stroke-linecap="round"><ellipse cx="220" cy="160" rx="70" ry="16"/><ellipse cx="220" cy="210" rx="70" ry="16"/><ellipse cx="220" cy="260" rx="70" ry="16"/><ellipse cx="220" cy="310" rx="70" ry="16"/><ellipse cx="220" cy="360" rx="70" ry="16"/></g>
+<g transform="translate(980,0)"></g>
+<g transform="translate(520,300)"><circle r="120" fill="none" stroke="#1f4fd8" stroke-width="14"/><circle r="30" fill="#fff" stroke="#2a3140" stroke-width="5"/>
+<g stroke="#1f4fd8" stroke-width="14" stroke-linecap="round"><path d="M0-120V-30"/><path d="M-104 60L-26 15"/><path d="M104 60L26 15"/></g></g>
+<text x="40" y="60" font-family="Arial,sans-serif" font-size="20" letter-spacing="2" fill="#6b7686">РУЛЬОВЕ КЕРУВАННЯ ТА ПІДВІСКА</text></svg>

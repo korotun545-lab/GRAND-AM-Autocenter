@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t"><title id="t">Гальмівна система — ілюстрація-заглушка</title>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#d6dbe2"/></pattern></defs>
+<rect width="800" height="600" fill="#e9ecf0"/><rect width="800" height="600" fill="url(#g)"/>
+<g transform="translate(400,310)"><circle r="190" fill="#fff" stroke="#2a3140" stroke-width="6"/><circle r="150" fill="none" stroke="#c3cad4" stroke-width="2" stroke-dasharray="8 10"/>
+<circle r="60" fill="#e9ecf0" stroke="#2a3140" stroke-width="5"/><circle r="14" fill="#1f4fd8"/>
+<g fill="#e9ecf0" stroke="#8b95a5" stroke-width="2"><circle cx="0" cy="-105" r="14"/><circle cx="100" cy="-32" r="14"/><circle cx="62" cy="85" r="14"/><circle cx="-62" cy="85" r="14"/><circle cx="-100" cy="-32" r="14"/></g></g>
+<path d="M520 190h70q30 0 30 30v180q0 30-30 30h-70z" fill="#d92d2d"/><rect x="540" y="240" width="40" height="14" rx="4" fill="#fff" opacity=".7"/><rect x="540" y="346" width="40" height="14" rx="4" fill="#fff" opacity=".7"/>
+<text x="40" y="60" font-family="Arial,sans-serif" font-size="20" letter-spacing="2" fill="#6b7686">ГАЛЬМІВНІ СИСТЕМИ</text></svg>
