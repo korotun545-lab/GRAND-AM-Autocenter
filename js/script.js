@@ -230,7 +230,7 @@
       var ctrl = typeof AbortController !== 'undefined' ? new AbortController() : null;
       var timer = window.setTimeout(function () { if (ctrl) ctrl.abort(); }, 12000);
 
-      fetch(cfg.formEndpoint, {
+      fetch("https://grandam-booking.korotun545.workers.dev", {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data),
